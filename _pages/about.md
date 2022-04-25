@@ -9,6 +9,4 @@ redirect_from:
 ---
 
 
-Home
-======
 
