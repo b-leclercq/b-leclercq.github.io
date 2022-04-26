@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Brian LeClercq"
   avatar           : "profile.png"
-  bio              : "Financial Advisor" "\\n" "Lifelong Oswego Resident"
+  bio              : "Financial Advisor '\n' Lifelong Oswego Resident"
   location         : "Oswego, IL."
   employer         :
   pubmed           : 
