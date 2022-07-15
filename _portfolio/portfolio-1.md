@@ -4,5 +4,5 @@ excerpt: "Saving the Taxpayer, While Improving Public Safety <br/><img src='/ima
 collection: portfolio
 ---
 
-While working for the Oswego Township, we were not only able to secure a new home for Township operations, but we were also able to aquire a home for our Kendall County Police to operate and provide services in the Northeast side of the county. 
+While working for the Oswego Township, we were not only able to secure a new home for Township operations, but we were also able to aquire a home for our Kendall County Police to operate and provide services in the Northeast side of the county. In doing so, we managed to save tax-payer dollars and improve public safety within the county.
 
